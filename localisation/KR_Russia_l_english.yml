@@ -582,19 +582,19 @@ RUS_Modernise_Murmansk_desc:0 "As a gateway into the Barents Sea, Murmansk could
 RUS_Recover_Foreign_Blueprints:0 "Recover Foreign Blueprints"
 RUS_Recover_Foreign_Blueprints_desc:0 "As a result of the decades lost to turmoil, we've fallen significantly behind several of our competitors. With the right resources and connections, however, we could learn from their efforts to speed up our own naval research program."
 
-RUS_Submarines_In_Kamchatka:0 "Submarines in Kamchatka"
+RUS_Submarines_In_Kamchatka:0 "캄차카의 잠수함"
 RUS_Submarines_In_Kamchatka_desc:0 "The loss of Vladivostok primed a generation of naval reformers to focus on smaller and more cost-effective ways to safeguard the Pacific. With all of the Sea of Okhotsk within its reach, basing a submarine fleet in Petropavlovsk-Kamchatsky would let us strike at any potential enemy throughout the entire Pacific theater of operations."
 
-RUS_Repair_Sevastopol:0 "Repair Sevastopol"
+RUS_Repair_Sevastopol:0 "세바스토폴 항구 정비"
 RUS_Repair_Sevastopol_desc:0 "With Crimea once again under Russian control we finally have a warm water port to the south and a permanent foothold in the Black Sea. However, its facilities are currently built with Ukrainian and Reichpakt specifications in mind. We need to rebuild and overhaul Crimea's shipyards and ports to fully utilize its potential!"
 
-RUS_Repair_Vladivostok:0 "Repair Vladivostok"
+RUS_Repair_Vladivostok:0 "블라디보스톡 항구 정비"
 RUS_Repair_Vladivostok_desc:0 "With Vladivostok back under our control we're finally in a position to contest the other world powers for dominance over the Pacific ocean. After decades of Kolchak's neglect and Japanese influence, however, it's pivotal that we renovate the port and bring it up to our naval specification."
 
-RUS_Battleship_Development:0 "Battleship Development"
+RUS_Battleship_Development:0 "전함 개발"
 RUS_Battleship_Development_desc:0 "From the carracks of old to the contemporary dreadnoughts, capital ships have been the centerpiece of every major navy for countless centuries. Building these mighty warships isn't just a massive boon to our navies, but also a clear sign to the rest of the world that we have overcome the injustices of Brest-Litovsk once and for all."
 
-RUS_Carrier_Development:0 "Carrier Development"
+RUS_Carrier_Development:0 "항공모함 개발"
 RUS_Carrier_Development_desc:0 "While the old guard speaks fondly of battleships, a new generation of naval theoreticians speak of the potential of the aircraft carrier as the future centerpiece of our navies. Each of these floating airfields can carry an armada of fighters and bombers directly into the heart of our foes, giving us unmatched power projection potential."
 
 RUS_Realpolitik:0 "현실정치"
@@ -629,10 +629,10 @@ russian_alliance:0 "러시아 동맹"
 
 ### Tooltips ###
 RUS_Okhrannoye_Otdeleniye_tooltip:0 "정부는 오흐라나를 재도입하기로 결정했습니다"
-RUS_Army_Modernisation_tooltip:0 "The military exercises have ended"
-RUS_Navy_Modernisation_tooltip:0 "The naval manoeuvres have ended"
+RUS_Army_Modernisation_tooltip:0 "군사 훈련이 끝났습니다"
+RUS_Navy_Modernisation_tooltip:0 "해군 기동이 끝났습니다"
 
-RUS_Expansionism_tooltip:0 "§CBy taking Expansionism, you will have more aggressive options in events, focuses and decisions, at the cost of increasing world tension and angering the countries around you!§!"
+RUS_Expansionism_tooltip:0 "§C팽창주의를 선택하면, 당신은 이벤트나 중점, 결정에서 더 공격적인 입장을 취할 수 있을 것이지만, 세계 긴장도가 상승하고 주변국을 화나게 할 것입니다!§!"
 RUS_Attack_Central_Asia_ALO_tooltip:0 "§H[ALO.GetNameDef]§! 공격\n"
 RUS_Attack_Central_Asia_TRK_tooltip:0 "§H[TRK.GetNameDef]§! 공격\n"
 RUS_Integrate_Alash_Autonomy_tooltip:0 "§H[ALO.GetNameDef]§! 통합\n"
@@ -1076,11 +1076,11 @@ rusd.59.d.failure_2:0 "Though our laissez-faire approach to economic matters has
 rusd.59.t.failure_3:0 "A Zemstvo Needs a Bailout!"
 rusd.59.d.failure_3:0 "A string of failed investments and poor planning has led to several key companies involved in a Zemstvo project going so far down into the red that we have no choice but to provide them with a government bailout to keep their projects from utterly falling apart. We'll just have to bite the bullet on this one, tighten our belts, pay up, and tighten our belts in the coming months ahead. Needless to say, the governor that greenlit this will have some explaining to do..."
 
-rusd.59.t.industrial_research:0 "Industrial Innovations"
-rusd.59.d.industrial_research:0 "Our bright minds in the research staff in [RUS_zemstvo_state.GetName] are reporting that they've made significant advances in their civilian engineering research. Leading the way with new patented inventions, their efforts will make work easier for our research teams across the country."
+rusd.59.t.industrial_research:0 "기술 혁신"
+rusd.59.d.industrial_research:0 "[RUS_zemstvo_state.GetName]의 우리 연구진들은 토목공학 부문에서 그들이 상당한 진전을 거두었다고 보고했습니다. 그들의 노력의 결실은 우리나라 전역의 연구진들에게 큰 도움이 될 것입니다."
 
-rusd.59.t.industrial_research_bonus:0 "Industrial Breakthrough!"
-rusd.59.d.industrial_research_bonus:0 "Splendid news! The geniuses in [RUS_zemstvo_state.GetName] announced today that they've made a great advancement in the fields of industry and civil engineering! Their research breakthrough has likely spared us months of additional hard work researching and developing. We're ready to start testing right away!"
+rusd.59.t.industrial_research_bonus:0 "산업 혁신!"
+rusd.59.d.industrial_research_bonus:0 "좋은 소식입니다! [RUS_zemstvo_state.GetName]의 천재들이 오늘 산업과 토목 공학 분야에서 큰 발전을 이루었다고 발표했습니다! 그들의 연구 성과 덕분에 연구개발 분야에 들어가는 노력을 덜 수 있게 되었습니다. 테스트 준비가 끝났습니다!"
 
 rusd.59.t.industrial_research_failure:0 "Industrial Research Set Back!"
 rusd.59.d.industrial_research_failure:0 "Our researchers in [RUS_zemstvo_state.GetName] are reporting a major setback. The professors in the employ of the Zemstvo made a dire miscalcuation in their assessments and it turns out (unfortunately only after extensive testing) that a lot of their hard work were based on a faulty premise. Unfortunately, some of our state-run research teams had used their work as a basis for their own projects as well, meaning that we're likely to see an overall slowdown of our research efforts in the months ahead."
